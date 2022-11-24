@@ -1,2 +1,2 @@
 My first readme
-Read
+Root dir
